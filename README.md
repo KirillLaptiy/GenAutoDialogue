@@ -1,0 +1,1 @@
+This script automatically skips dialogue in Genshin Impact. It detects the eye icon in the upper-left area of the game window using template matching, and when the icon is visible, it automatically sends F, Space, and left-click inputs with randomized delays. It only works while the Genshin Impact window is active, pauses when the icon is not detected.
